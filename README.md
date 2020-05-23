@@ -1,2 +1,2 @@
-# COVID_PROJECT_PART_1---EDA_on_normal_img
+# COVID_PROJECT
 Face Mask Detection 😷
